@@ -12,16 +12,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.HermosaIntro"
         tools:targetApi="31">
-        <activity
-            android:name=".Intro"
-            android:exported="false"
-            android:theme="@style/Theme.HermosaIntro" />
+
         <activity
             android:name=".MainActivity"
-            android:exported="true">
+            android:exported="false">
+        </activity>
+
+        <activity
+            android:name=".Intro"
+            android:exported="true"
+            android:theme="@style/Theme.HermosaIntro">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>

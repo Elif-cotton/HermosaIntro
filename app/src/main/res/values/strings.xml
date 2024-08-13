@@ -15,4 +15,5 @@
     <string name="titulo_3">Buscar y filtrar</string>
     <string name="subtitulo_3">Obten cualquier libro que desees \n  con una simple búsqueda.</string>
     <string name="view_pager_description">"siguiente "</string>
+    <string name="intro">Hermosa Intro creada \n con Figma</string>
 </resources>
