@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">HermosaIntro</string>
+    <string name="next">Next</string>
+    <string name="start">Start</string>
+
+    <string name="intro_image_desc1">imagen mujer leyendo</string>
+    <string name="titulo_1">Tú compañero de lectura</string>
+    <string name="subtitulo_1">Leer tantos libros como deseas,\n en cualquier lugar.</string>
+
+    <string name="intro_image_desc2">imagen hombre leyendo</string>
+    <string name="titulo_2">Tú compañero de lectura</string>
+    <string name="subtitulo_2">Organizar libros de diferentes \n maneras, haz tú propia librería.</string>
+
+    <string name="intro_image_desc3">imagen mujer con lupa</string>
+    <string name="titulo_3">Buscar y filtrar</string>
+    <string name="subtitulo_3">Obten cualquier libro que desees \n  con una simple búsqueda.</string>
+    <string name="view_pager_description">"siguiente "</string>
 </resources>
